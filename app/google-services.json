@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804160624723",
+    "firebase_url": "https://eat24casestudy.firebaseio.com",
+    "project_id": "eat24casestudy",
+    "storage_bucket": "eat24casestudy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804160624723:android:2145f52cb4e80f9eb5cea6",
+        "android_client_info": {
+          "package_name": "com.jayneel.eat24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804160624723-kom5dghril7b9bh52pu82in91kjm9re1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEYrwpVmDWfrFHzpXWrXXn7x_Wql-xig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804160624723-kom5dghril7b9bh52pu82in91kjm9re1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

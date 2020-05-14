@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">eat24</string>
+    <string-array name="utype">
+        <item>Waiter</item>
+        <item>Manager</item>
+        <item>Kitchen</item>
+    </string-array>
+
+    <string-array name="cat">
+        <item>Punjabi</item>
+        <item>Gujarati</item>
+        <item>Chinies</item>
+        <item>Cold Drinks</item>
+    </string-array>
+
+    <string-array name="pmod">
+        <item>Cash</item>
+        <item>Paytm</item>
+        <item>Card</item>
+    </string-array>
+
+    <string-array name="qty">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="table">
+        <item>Available</item>
+        <item>Serving</item>
+    </string-array>
+    <string name="logout">Logout</string>
+</resources>
